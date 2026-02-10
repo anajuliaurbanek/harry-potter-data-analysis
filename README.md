@@ -68,9 +68,8 @@ The following analyses were performed:
 ---
 
 ## ▶️ How to Run the Project
-
+ ```bash
 1. Install dependencies:
-```bash
 pip install -r requirements.txt
 
 2. Run EDA:
@@ -82,8 +81,8 @@ python clean_hp_data.py
 4. Run analysis and generate plots:
 python analysis_hp.py
 The generated plots will be saved in the images/ directory.
-
+ ```
 
 # 👩‍💻 Author
-Ana Julia
+### Ana Julia Urbanek
 Information Systems Student
