@@ -1,0 +1,438 @@
+name,house,gender,species,alive
+Harry Potter,Gryffindor,male,human,True
+Hermione Granger,Gryffindor,female,human,True
+Ron Weasley,Gryffindor,male,human,True
+Draco Malfoy,Slytherin,male,human,True
+Minerva McGonagall,Gryffindor,female,human,True
+Cedric Diggory,Hufflepuff,male,human,False
+Cho Chang,Ravenclaw,female,human,True
+Severus Snape,Slytherin,male,human,False
+Rubeus Hagrid,Gryffindor,male,half-giant,True
+Neville Longbottom,Gryffindor,male,human,True
+Luna Lovegood,Ravenclaw,female,human,True
+Ginny Weasley,Gryffindor,female,human,True
+Sirius Black,Gryffindor,male,human,False
+Remus Lupin,Gryffindor,male,werewolf,False
+Arthur Weasley,Gryffindor,male,human,True
+Bellatrix Lestrange,Slytherin,female,human,False
+Lord Voldemort,Slytherin,male,human,False
+Horace Slughorn,Slytherin,male,human,True
+Kingsley Shacklebolt,Unknown,male,human,True
+Dolores Umbridge,Slytherin,female,human,True
+Lucius Malfoy,Slytherin,male,human,True
+Vincent Crabbe,Slytherin,male,human,False
+Mr Crabbe,Unknown,male,human,False
+Gregory Goyle,Slytherin,male,human,True
+Mr Goyle,Unknown,male,human,True
+Mrs Norris,Unknown,female,cat,True
+Argus Filch,Unknown,male,human,True
+Vernon Dursley,Unknown,male,human,True
+Petunia Dursley,Unknown,female,human,True
+Dudley Dursley,Unknown,male,human,True
+Boa constrictor,Unknown,Unknown,snake,True
+Lily Potter,Gryffindor,female,human,False
+James Potter,Gryffindor,male,human,False
+Albus Dumbledore,Gryffindor,male,human,False
+Fawkes,Unknown,male,phoenix,True
+Madam Pomfrey,Unknown,female,human,True
+Mrs Figg,Unknown,female,human,True
+Marge Dursley,Unknown,female,human,True
+Ripper,Unknown,male,dog,True
+Yvonne,Unknown,female,human,True
+Piers Polkiss,Unknown,male,human,True
+Dennis,Unknown,male,human,True
+Malcolm,Unknown,male,human,True
+Gordon,Unknown,male,human,True
+Miranda Gaushawk,Unknown,female,human,False
+Bathilda Bagshot,Unknown,female,human,False
+Adalbert Waffling,Unknown,male,human,False
+Emeric Switch,Unknown,male,human,False
+Phyllida Spore,Unknown,female,human,False
+Arsenius Jigger,Unknown,male,human,False
+Newt Scamander,Hufflepuff,male,human,True
+Quentin Trimble,Unknown,male,human,False
+Tom,Unknown,male,human,True
+Doris Crockford,Unknown,female,human,True
+Quirinus Quirrel,Unknown,male,human,False
+Griphook,Unknown,male,goblin,False
+Madam Malkin,Unknown,female,human,True
+Vindictus Viridian,Unknown,male,human,False
+Garrick Ollivander,Unknown,male,human,True
+Hedwig,Unknown,female,owl,False
+Trevor,Unknown,male,toad,True
+Hermes,Unknown,male,owl,True
+Errol,Unknown,male,owl,True
+Pigwidgeon,Unknown,male,owl,True
+Molly Weasley,Gryffindor,female,human,True
+Percy Weasley,Gryffindor,male,human,True
+Fred Weasley,Gryffindor,male,human,False
+George Weasley,Gryffindor,male,human,True
+Lee Jordan,Gryffindor,male,human,True
+Bill Weasley,Gryffindor,male,human,True
+Charlie Weasley,Gryffindor,male,human,True
+Fat Friar,Hufflepuff,male,ghost,False
+Peeves,Unknown,male,poltergeist,False
+Hannah Abbott,Hufflepuff,female,human,True
+Susan Bones,Hufflepuff,female,human,True
+Terry Boot,Ravenclaw,male,human,True
+Mandy Brocklehurst,Ravenclaw,female,human,True
+Lavender Brown,Gryffindor,female,human,True
+Millicent Bulstrode,Slytherin,female,human,True
+Justin Finch-Fletchley,Hufflepuff,male,human,True
+Seamus Finnigan,Gryffindor,male,human,True
+Mrs Finnigan,Unknown,female,human,True
+Mr Finnigan,Unknown,male,human,True
+Morag MacDougal,Unknown,female,human,True
+Lily Moon,Unknown,female,human,True
+Theodore Nott,Slytherin,male,human,True
+Mr Nott,Unknown,male,human,True
+Pansy Parkinson,Slytherin,female,human,True
+Parvati Patil,Gryffindor,female,human,True
+Padma Patil,Ravenclaw,female,human,True
+Sally-Anne Perks,Unknown,female,human,True
+Lisa Turpin,Ravenclaw,female,human,True
+Blaise Zabini,Slytherin,male,human,True
+Nearly Headless Nick,Gryffindor,male,ghost,False
+Bloody Baron,Slytherin,male,ghost,False
+The Wailing Widow,Unknown,female,ghost,False
+Fat Lady,Unknown,female,human,False
+Pomona Sprout,Hufflepuff,female,human,True
+Cuthbert Binns,Unknown,male,ghost,False
+Emeric the Evil,Unknown,male,human,False
+Uric the Oddball,Unknown,male,human,False
+Filius Flitwick,Ravenclaw,male,human,True
+Madam Hooch,Unknown,female,human,True
+Oliver Wood,Unknown,male,human,True
+Gregory the Smarmy,Unknown,male,human,False
+Wizard Baruffio,Unknown,male,human,False
+Angelina Johnson,Gryffindor,female,human,True
+Marcus Flint,Slytherin,male,human,True
+Alicia Spinet,Gryffindor,female,human,True
+Katie Bell,Gryffindor,female,human,True
+Adrian Pucey,Slytherin,male,human,True
+Miles Bletchley,Slytherin,male,human,True
+Terence Higgs,Slytherin,male,human,True
+Fang,Unknown,male,dog,True
+Fluffy,Unknown,male,three-headed dog,True
+Nicolas Flamel,Unknown,male,human,False
+Gellert Grindelwald,Unknown,male,human,False
+Norberta,Unknown,female,dragon,True
+Ronan,Unknown,male,centaur,True
+Bane,Unknown,male,centaur,True
+Firenze,Unknown,male,centaur,True
+The Giant Squid,Unknown,Unknown,cephalopod,True
+Murcus,Unknown,female,selkie,True
+Elfrick the Eager,Unknown,male,goblin,False
+Perenelle Flamel,Unknown,female,human,False
+Bertie Bott,Unknown,male,human,True
+Dobby,Unknown,male,house-elf,False
+Kreacher,Unknown,male,house-elf,False
+Mr Mason,Unknown,male,human,True
+Mrs Mason,Unknown,female,human,True
+Perkins,Unknown,male,human,True
+Celestina Warbeck,Gryffindor,female,human,True
+Gilderoy Lockhart,Unknown,male,human,True
+The Basilisk,Unknown,Unknown,serpent,False
+Mundungus Fletcher,Unknown,male,human,True
+Mr Borgin,Unknown,male,human,True
+Mr Granger,Unknown,male,human,True
+Mrs Granger,Unknown,female,human,True
+Dr Filibuster,Unknown,male,human,True
+Colin Creevey,Gryffindor,male,human,False
+Gladys Gudgeon,Unknown,female,human,True
+Veronica Smethley,Unknown,female,human,True
+Patrick Delaney-Podmore,Unknown,male,ghost,False
+Z. Nettles,Unknown,female,human,True
+D.J. Prod,Unknown,male,human,False
+Elsie Prod,Unknown,female,human,True
+Moaning Myrtle,Ravenclaw,female,ghost,False
+Godric Gryffindor,Unknown,male,human,False
+Rowena Ravenclaw,Unknown,female,human,False
+Helga Hufflepuff,Unknown,female,human,False
+Salazar Slytherin,Unknown,male,human,False
+Madame Pince,Unknown,female,human,True
+Milicent Bullstroude,Slytherin,female,human,True
+Ernie Macmillan,Hufflepuff,male,human,True
+Armando Dippet,Unknown,male,human,False
+Penelope Clearwater,Ravenclaw,female,human,True
+Cornelius Fudge,Unknown,male,human,True
+Oblansk,Unknown,male,human,True
+Aragog,Unknown,male,acromantula,False
+Mosag,Unknown,female,acromantula,True
+Stanley Shunpike,Unknown,male,human,True
+Ernest Prang,Unknown,male,human,True
+Madam Marsh,Unknown,female,human,True
+Florean Fortescue,Unknown,male,human,False
+Sir Cadogan,Unknown,male,human,False
+Sybill Trelawney,Unknown,female,human,True
+Buckbeak,Unknown,male,hippogriff,True
+Peter Pettigrew,Gryffindor,male,human,False
+Crookshanks,Unknown,male,cat,True
+The Trolley Witch,Unknown,female,human,True
+The Sorting Hat,Unknown,Unknown,hat,True
+Madam Rosmerta,Unknown,female,human,True
+Derek,Unknown,male,human,True
+Septima Vector,Unknown,female,human,True
+Cassius Warrington,Slytherin,male,human,True
+Graham Montague,Slytherin,male,human,True
+Peregrine Derrick,Slytherin,male,human,True
+Lucian Bole,Slytherin,male,human,True
+Walden Macnair,Slytherin,male,human,True
+Franc Bryce,Unknown,male,human,False
+Dot,Unknown,female,human,False
+Bertha Jorkins,Unknown,female,human,False
+Barty Crouch,Unknown,male,human,False
+Barty Crouch Junior,Unknown,male,human,True
+Mrs Crouch,Unknown,female,human,False
+Ludo Bagman,Unknown,male,human,True
+Amos Diggory,Unknown,male,human,True
+Mrs Diggory,Unknown,female,human,True
+Mr Roberts,Unknown,male,human,True
+Mrs Roberts,Unknown,female,human,True
+Kevin,Unknown,male,human,True
+Mr Payne,Unknown,male,human,True
+Basil,Unknown,male,human,True
+Archie Aymslowe,Unknown,male,human,True
+Cuthbert Mockridge,Unknown,male,human,True
+Gilbert Wimple,Unknown,male,human,True
+Arnold Peasegood,Unknown,male,human,True
+Broderick Bode,Unknown,male,human,False
+Saul Croaker,Unknown,male,human,True
+Ali Bashir,Unknown,male,human,True
+Victor Krum,Unknown,male,human,True
+Winky,Unknown,female,house-elf,True
+Narcissa Malfoy,Unknown,female,human,True
+Vasily Dimitrov,Unknown,male,human,True
+Clara Ivanova,Unknown,female,human,True
+Lev Zograf,Unknown,male,human,True
+Alexei Levski,Unknown,male,human,True
+Pyotr Vulchanov,Unknown,male,human,True
+Ivan Volkov,Unknown,male,human,True
+Connolly,Unknown,male,human,True
+Barry Ryan,Unknown,male,human,True
+Troy,Unknown,male,human,True
+Mullet,Unknown,female,human,True
+Moran,Unknown,female,human,True
+Quigley,Unknown,male,human,True
+Aidan Lynch,Unknown,male,human,True
+Hassan Mostafa,Unknown,male,human,True
+Dennis Creevey,Unknown,male,human,True
+Aurora Sinistra,Unknown,female,human,True
+Stewart Ackerley,Ravenclaw,male,human,True
+Malcolm Baddock,Slytherin,male,human,True
+Eleanor Branstone,Hufflepuff,female,human,True
+Owen Cauldwell,Hufflepuff,male,human,True
+Emma Dobbs,Unknown,female,human,True
+Laura Madley,Hufflepuff,female,human,True
+Natalie McDonald,Gryffindor,female,human,True
+Graham Pritchard,Slytherin,male,human,True
+Orla Quirke,Ravenclaw,female,human,True
+Kevin Whitby,Hufflepuff,male,human,True
+Eloise Midgen,Gryffindor,female,human,True
+Alastor Moody,Unknown,male,human,False
+Madame Maxime,Unknown,female,half-giant,True
+Igor Karkaroff,Unknown,male,human,False
+Poliakoff,Unknown,male,human,True
+Fawcett,Ravenclaw,female,human,True
+Summers,Hufflepuff,male,human,True
+Fleur Delacour,Unknown,female,human,True
+Gregorovic,Unknown,male,human,False
+Rita Skeeter,Unknown,female,human,True
+Stebbins,Ravenclaw,male,human,True
+Wilhelmina Grubbly-Plank,Unknown,female,human,True
+Bozo,Unknown,male,human,True
+Evan Rosier,Slytherin,male,human,False
+Wilkes,Slytherin,male,human,False
+Avery,Slytherin,male,human,True
+Antonin Dolohov,Unknown,male,human,True
+Travers,Unknown,male,human,True
+Marlene McKinnon,Unknown,female,human,False
+Mulciber,Slytherin,male,human,True
+Augustus Rookwood,Unknown,male,human,True
+Frank Longbottom,Unknown,male,human,True
+Alice Longbottom,Unknown,female,human,True
+Augusta Longbottom,Unknown,female,human,True
+Violet,Unknown,female,human,False
+Apollyon Pringle,Unknown,male,human,True
+Ogg,Unknown,male,human,True
+Mafalda Hopkirk,Unknown,female,human,True
+Nymphadora Tonks,Hufflepuff,female,human,False
+Elphias Doge,Unknown,male,human,True
+Dedalus Diggle,Unknown,male,human,True
+Sturgis Podmore,Unknown,male,human,True
+Hestia Jones,Unknown,female,human,True
+Ragnok,Unknown,male,goblin,True
+Alphard Black,Slytherin,male,human,False
+Regulus Black,Slytherin,male,human,False
+Phineas Nigelus Black,Slytherin,male,human,False
+Araminta Meliflua Black,Slytherin,female,human,False
+Elladora Black,Unknown,female,human,False
+Mrs Black,Unknown,female,human,False
+Andromeda Tonks,Slytherin,female,human,True
+Ted Tonks,Unknown,female,human,False
+Rodolphus Lestrange,Slytherin,male,human,True
+Rabastan Lestrange,Slytherin,male,human,True
+Eric Munch,Unknown,male,human,True
+Bob,Unknown,male,human,True
+Bengie Fenwick,Unknown,male,human,False
+Edgar Bones,Unknown,male,human,False
+Amelia Bones,Unknown,female,human,True
+Caradoc Dearborn,Unknown,male,human,False
+Gideon Prewett,Unknown,male,human,False
+Fabian Prewett,Unknown,male,human,False
+Aberforth Dumbledore,Gryffindor,male,human,True
+Dorcas Meadowes,Unknown,female,human,False
+Algie Longbottom,Unknown,male,human,True
+Anthony Goldstein,Ravenclaw,male,human,True
+Doris Purkiss,Unknown,male,human,True
+Euan Abercrombie,Gryffindor,male,human,True
+Rose Zeller,Hufflepuff,female,human,True
+Patricia Stimpson,Unknown,female,human,True
+Kenneth Towler,Gryffindor,male,human,True
+Vicky Frobisher,Gryffindor,female,human,True
+Geoffrey Hooper,Gryffindor,male,human,True
+Cassandra Trelawney,Unknown,female,human,False
+Michael Corner,Ravenclaw,male,human,True
+Zacharias Smith,Ravenclaw,male,human,True
+Barnabas the Barmy,Unknown,male,human,False
+Karkus,Unknown,male,giant,False
+Golgomath,Unknown,male,giant,True
+Fridwulfa,Unknown,female,giant,False
+Andrew Kirke,Gryffindor,male,human,True
+Jack Sloper,Gryffindor,male,human,True
+Everard,Unknown,male,human,False
+Dilys Derwent,Unknown,female,human,False
+Hippocrates Smethwyck,Unknown,male,human,True
+Augustus Pye,Unknown,male,human,True
+Urquhart Rackharrow,Unknown,male,human,False
+Willy Widdershins,Unknown,male,human,True
+Agnes,Unknown,female,human,True
+Miriam Strout,Unknown,female,human,True
+Madam Puddifoot,Unknown,female,human,True
+Summerby,Hufflepuff,male,human,True
+Marietta Edgecombe,Ravenclaw,female,human,True
+Madam Edgecombe,Unknown,female,human,True
+John Dawlish,Unknown,male,human,True
+Williamson,Unknown,male,human,True
+Bradley,Ravenclaw,male,human,True
+Roger Davies,Ravenclaw,male,human,True
+Grawp,Unknown,male,giant,True
+Griselda Marchbanks,Unknown,female,human,True
+Eddie Carmichael,Ravenclaw,male,human,True
+Daphne Greengrass,Slytherin,female,human,True
+Tofty,Unknown,male,human,True
+Tiberius Ogden,Unknown,male,human,True
+Pierre Bonaccord,Unknown,male,human,True
+Stubby Boardman,Unknown,male,human,True
+Magorian,Unknown,male,centaur,True
+Emmeline Vance,Unknown,female,human,False
+Herbert Chorley,Unknown,male,human,True
+The British Prime Minister,Unknown,male,human,True
+Ulick Gamp,Unknown,male,human,False
+Rufus Scrimgeour,Unknown,male,human,False
+Corban Yaxley,Unknown,male,human,True
+Fenrir Greyback,Unknown,male,werewolf,True
+Dirk Cresswell,Unknown,male,human,False
+Barnabas Cuffe,Unknown,male,human,True
+Ambrosius Flume,Unknown,male,human,True
+Gwenog Jones,Unknown,female,human,True
+Arkie Philpott,Unknown,male,human,True
+Verity,Unknown,female,human,True
+Arnold,Unknown,male,pygmy puff,True
+Romilda Vane,Gryffindor,female,human,True
+Cormac McLaggen,Gryffindor,male,human,True
+Marcus Belby,Ravenclaw,male,human,True
+Damocles Belby,Unknown,male,human,False
+Tiberius,Unknown,male,human,False
+Bertie Higgs,Unknown,male,human,False
+Proudfoot,Unknown,male,human,True
+Savage,Unknown,male,human,True
+Humphrey Belcher,Unknown,male,human,True
+Bob Ogden,Unknown,male,human,False
+Morfin Gaunt,Unknown,male,human,False
+Marvolo Gaunt,Unknown,male,human,False
+Merope Gaunt,Unknown,female,human,False
+Cecilia,Unknown,female,human,False
+Tom Riddle,Unknown,male,human,False
+Demelza Robins,Gryffindor,female,human,True
+Jimmy Peakes,Gryffindor,male,human,True
+Ritchie Coote,Gryffindor,male,human,True
+Melinda Bobbin,Unknown,female,human,True
+Leanne,Hufflepuff,female,human,True
+Caractacus Burke,Unknown,male,human,False
+Billy Stubbs,Unknown,male,human,True
+Amy Benson,Unknown,female,human,True
+Dennis Bishop,Unknown,male,human,True
+Mrs Cole,Unknown,female,human,True
+Eric Whalley,Unknown,male,human,True
+Vaisey,Slytherin,male,human,True
+Harper,Slytherin,male,human,True
+Urquhart,Slytherin,male,human,True
+Eldred Worple,Unknown,male,human,True
+Sanguini,Unknown,male,vampire,True
+Gawain Robards,Unknown,male,human,True
+Fergus,Unknown,male,human,True
+Wilkie Twycross,Unknown,male,human,True
+Cadwallader,Hufflepuff,male,human,True
+Galatea Merrythought,Unknown,female,human,False
+Hepzibah Smith,Unknown,female,human,False
+Hokey,Unknown,female,house-elf,False
+Octavius Pepper,Unknown,male,human,False
+Bertram Aubrey,Unknown,male,human,False
+Eileen Prince,Unknown,female,human,False
+Amycus Carrow,Slytherin,male,human,True
+Alecto Carrow,Slytherin,female,human,True
+Gibbon,Unknown,male,human,False
+Tobias Snape,Unknown,male,human,True
+Pius Thicknesse,Unknown,male,human,True
+Wakanda,Unknown,female,human,True
+Charity Burbage,Unknown,female,human,False
+Percival Dumbledore,Unknown,male,human,False
+Kendra Dumbledore,Unknown,female,human,False
+Ariana Dumbledore,Unknown,female,human,False
+Betty Braithwaite,Unknown,female,human,True
+Apolline Delacour,Unknown,female,half-human,True
+Gabrielle Delacour,Unknown,female,human,True
+Monsieur Delacour,Unknown,male,human,True
+Dragomir Gorgovitch,Unknown,male,human,True
+Xenophilius Lovegood,Ravenclaw,male,human,True
+Pandora Lovegood,Ravenclaw,female,human,False
+Muriel,Unknown,female,human,True
+Bilius,Unknown,male,human,False
+Thorfinn Rowle,Unknown,male,human,True
+Reg Cattermole,Unknown,male,human,True
+Albert Runcorn,Unknown,male,human,True
+Arkie Alderton,Unknown,male,human,True
+Mary Cattermole,Unknown,female,human,True
+Maisie Cattermole,Unknown,female,human,True
+Ellie Cattermole,Unknown,female,human,True
+Alfred Cattermole,Unknown,male,human,True
+Gornuk,Unknown,male,goblin,False
+Bowman Wright,Unknown,male,human,False
+Ivor Dillonsby,Unknown,male,human,True
+Enid Smeek,Unknown,female,human,True
+Egbert the Egregious,Unknown,male,human,False
+Godelot,Unknown,male,human,False
+Hereward,Unknown,male,human,False
+Loxias,Unknown,male,human,False
+Barnabas Deverill,Unknown,male,human,False
+Arcus,Unknown,male,human,False
+Livius,Unknown,male,human,False
+Antioch Peverell,Unknown,male,human,False
+Cadmus Peverell,Unknown,male,human,False
+Ignotus Peverell,Unknown,male,human,False
+Selwyn,Unknown,male,human,True
+Scabior,Slytherin,male,human,True
+Ragnuk the First,Unknown,male,goblin,False
+Ted Lupin,Hufflepuff,male,human,True
+Marius,Unknown,male,human,True
+Bogrod,Unknown,male,goblin,True
+The Grey Lady,Unknown,female,ghost,False
+Dexter Fortescue,Unknown,male,human,False
+Lily Potter,Gryffindor,female,human,True
+James Potter,Gryffindor,male,human,True
+Albus Severus Potter,Slytherin,male,human,True
+Rose Weasley,Gryffindor,female,human,True
+Hugo Weasley,Unknown,male,human,True
+Scorpius Malfoy,Slytherin,male,human,True
+Victoire Weasley,Unknown,female,human,True
